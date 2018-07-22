@@ -2,3 +2,10 @@ pandas
 numpy
 matplotlib
 sklearn
+scipy
+sympy
+statsmodels
+patsy
+pandas-datareader
+numba
+
